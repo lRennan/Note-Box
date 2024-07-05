@@ -9,6 +9,8 @@ Save Notes: Notes are automatically saved in the browser's local storage.
 Project Structure
 
 
+Notes are automatically saved in the browser's local storage.
+
 ![Screenshot 2024-07-05 185950](https://github.com/lRennan/Note/assets/94014673/f5e71f85-6877-4cf9-a3d4-c260d6136ebc)
 
 
