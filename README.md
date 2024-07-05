@@ -8,7 +8,8 @@ Delete Notes: Click the trash icon within a note to delete it.
 Save Notes: Notes are automatically saved in the browser's local storage.
 Project Structure
 
-C:\Users\renna\OneDrive\Imagens\Capturas de tela\Screenshot 2024-07-05 185950.png
+
+![Screenshot 2024-07-05 185950](https://github.com/lRennan/Note/assets/94014673/f5e71f85-6877-4cf9-a3d4-c260d6136ebc)
 
 
-C:\Users\renna\OneDrive\Imagens\Capturas de tela\Screenshot 2024-07-05 190031.png
+![Screenshot 2024-07-05 190031](https://github.com/lRennan/Note/assets/94014673/c85f9888-c02e-4446-8ab4-814d8ce22a90)
